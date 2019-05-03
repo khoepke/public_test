@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
+# test
+Description text
+=======
 # public_test
 =======
-# test
-Descrition text
->>>>>>> dev_rep/master
